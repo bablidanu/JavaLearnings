@@ -2,7 +2,7 @@
 
 This repository showcases a range of Java programs that demonstrate key programming concepts.
 
-### Data Types based Questions : 
+### Calculating Simple Geometric Properties : 
 
 * **VolumeOfCone** : Calculates the volume of the Cone.
 * **VolumeOfCylinder** : Calculates the volume of the Cylinder. 

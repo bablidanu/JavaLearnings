@@ -23,8 +23,8 @@ This repository showcases a range of Java programs that demonstrate key programm
 * **SumOfFirstTenNaturalNumbers** : Program to find the sum of first 10 natural numbers.  
 * **NTermsOfNaturalNumbersAndTheirSum** : Program to display n terms of natural number and their sum.
 * **NaturalOddNumberAndTheirSum** :  Program to display the n terms of odd natural number and their sum.
-* **CubeCalculator** : Program to display the Cube of the number upto given an integer.
-* **SquareCalculator** : Program to display the Square of the number upto given an integer.
+* **CubeCalculator** : Program to display the Cube of the number upto a given integer.
+* **SquareCalculator** : Program to display the Square of the number upto a given integer.
 * **SumAndAverage** :  Program to read 10 numbers from the user and find their sum and average.  
 * **TableOfNum** : Program to display the multiplication table of a given integer.
 * **MultiplicationTable** : Program to display the multipliaction table vertically from 1 to 8.

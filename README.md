@@ -2,6 +2,8 @@
 
 This repository showcases a range of Java programs that demonstrate key programming concepts.
 
+* **HelloWorld** : Printing Hello World! in java.
+
 ### Calculating Simple Geometric Properties : 
 
 * **VolumeOfCone** : Calculates the volume of the Cone.

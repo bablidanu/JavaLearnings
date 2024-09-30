@@ -19,7 +19,15 @@ This repository showcases a range of Java programs that demonstrate key programm
 * **FahrenheitToCelcius** : Converts temperature from Fahrenheit to Celcius.
 * **CelciusToFahrenheit** : Converts temperature from Celcius to Fahrenheit.
 
-### Loop Based Questions : 
+### Conditional Statement Exercises : 
+
+* **CheckingWhetherTheNumIsPositiveOrNegative** : Program to check whether a given number is positive , negative or zero.
+*  **CheckingTheNumIsEvenOrNot** : Program to check whether a given number is even or odd.
+*  **CheckingEquality** : Program to accept two integers and check whether they are equal or not.
+*  **DayNameOfWeek** : Program to read any day number in integer and display day name of week.
+*  **DeterminingQuadrant** : Program to accept a coordinate point in a XY coordinate system and determine in which quadrant the coordinate point lies.  
+
+### Loop Based Exercises : 
 
 * **PrintingNaturalNumbers** : Program to display the first 100 natural numbers.
 * **SumOfFirstTenNaturalNumbers** : Program to find the sum of first 10 natural numbers.  

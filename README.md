@@ -49,8 +49,10 @@ This repository showcases a range of Java programs that demonstrate key programm
 * **FibonacciSeries** : Program to find the Fibonacci series upto the given number.
 * **ArmStrongNumber** : Program to check whether the given number is an Arm-Strong number of 3 digit or not.
 * **ArithmeticProgression** : Program to take the First term(a), Common difference(d) and number of terms(n) of the A.P from the user. Then find the A.P upto given number of terms.
-* **OddDigitCounter** : Program to find the odd digits in the given number.
+* **OddDigitCounter** : Program to find the number of odd digits in the given integer.
 * **OddDigitSum** :  Program to find the sum of all the odd digits in the given integer.
+* **EvenDigitCounter** : Program to find the number of even digits in the given integer.
+* **evenDigitSum** :  Program to find the sum of all the even digits in the given integer.
 
 
 

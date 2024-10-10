@@ -45,7 +45,11 @@ This repository showcases a range of Java programs that demonstrate key programm
 * **SumAndAverage** :  Program to read 10 numbers from the user and find their sum and average.  
 * **TableOfNum** : Program to display the multiplication table of a given integer.
 * **MultiplicationTable** : Program to display the multipliaction table vertically from 1 to 8.
-
+* **Factorial** : Program to find the factorial of a given number.
+* **FibonacciSeries** : Program to find the Fibonacci series upto the given number.
+* **ArmStrongNumber** : Program to check whether the given number is an Arm-Strong number of 3 digit or not.
+* **ArithmeticProgression** : Program to take the First term(a), Common difference(d) and number of terms(n) of the A.P. Then find the A.P upto given number of terms.
+  
 
 
 

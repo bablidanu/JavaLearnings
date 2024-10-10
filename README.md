@@ -48,8 +48,9 @@ This repository showcases a range of Java programs that demonstrate key programm
 * **Factorial** : Program to find the factorial of a given number.
 * **FibonacciSeries** : Program to find the Fibonacci series upto the given number.
 * **ArmStrongNumber** : Program to check whether the given number is an Arm-Strong number of 3 digit or not.
-* **ArithmeticProgression** : Program to take the First term(a), Common difference(d) and number of terms(n) of the A.P. Then find the A.P upto given number of terms.
-  
+* **ArithmeticProgression** : Program to take the First term(a), Common difference(d) and number of terms(n) of the A.P from the user. Then find the A.P upto given number of terms.
+* **OddDigitCounter** : Program to find the odd digits in the given number.
+* **OddDigitSum** :  Program to find the sum of all the odd digits in the given integer.
 
 
 

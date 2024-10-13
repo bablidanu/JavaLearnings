@@ -40,6 +40,7 @@ public class ElectricityCharge {
             System.out.println("Minimun bill should be paid rupees 200/-");
             amount = 200;
         }
+        
         System.out.println("The net amount to be paid is : "+amount);
     }
 }
